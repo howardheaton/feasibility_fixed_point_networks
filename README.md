@@ -1,11 +1,11 @@
-# Learned Feasibility
+# Feasibility-based Fixed Poinet Networks (F-FPNs)
 
-This repo provides the code for the paper "Bestest Awesomest Feasibility Paper" (preprint available here). 
+This repo provides the code for the paper _Feasibility-based Fixed Point Networks_ (preprint available here). 
 
 Please cite as
 
-    @article{????2021learned,
-        title={Bestest Awesomeest Feasibility Paper},
+    @article{????2021feasibility,
+        title={Feasibility-based Fixed Point Networks},
         author={????},
         journal={arXiv preprint arXiv:????.?????},
         year={2021}}
