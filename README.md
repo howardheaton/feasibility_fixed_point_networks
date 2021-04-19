@@ -1,4 +1,4 @@
-# Feasibility-based Fixed Poinet Networks (F-FPNs)
+# Feasibility-based Fixed Point Networks (F-FPNs)
 
 This repo provides the code for the paper _Feasibility-based Fixed Point Networks_ (preprint available here). 
 
