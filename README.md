@@ -15,3 +15,5 @@ Compatible with python 3.5+ and known to work with pytorch 1.4, torchvision 0.5,
 All codes for this project were run on Google Colab. Jupyter notebook files may be downloaded directly or may be run on Google Colab via the links below.
 
 [Colab Project for Ellipses Dataset](https://colab.research.google.com/drive/1Tl3nMPyWfB-FKRzWKJWGjAI99hqVqj_Q?usp=sharing)
+
+[Download Data](https://drive.google.com/drive/folders/1Z0A3c-D4dnrhlXM8cpgC1b7Ltyu0wpgQ?usp=sharing)
