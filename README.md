@@ -18,4 +18,6 @@ All codes for this project were run on Google Colab. Jupyter notebook files may 
 
 [TV Minimization Colab Notebook](https://colab.research.google.com/drive/1I3G3PjIrosvy4VTy4b2XdtDpRjVwC4P5?usp=sharing)
 
+[TV Superiorization Colab Notebook](https://colab.research.google.com/drive/1_EfLGpeinAphS2csMp5IT500OWwOtEdi?usp=sharing)
+
 [Download Data](https://drive.google.com/drive/folders/1Z0A3c-D4dnrhlXM8cpgC1b7Ltyu0wpgQ?usp=sharing)
