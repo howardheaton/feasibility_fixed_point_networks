@@ -14,9 +14,9 @@ Compatible with python 3.5+ and known to work with pytorch 1.4, torchvision 0.5,
 
 All codes for this project were run on Google Colab. Jupyter notebook files may be downloaded directly or may be run on Google Colab via the links below.
 
-[Colab Project for Ellipses Dataset](https://colab.research.google.com/drive/1Tl3nMPyWfB-FKRzWKJWGjAI99hqVqj_Q?usp=sharing)
+[F-FPN Colab Notebook - Ellipses](https://colab.research.google.com/drive/1Tl3nMPyWfB-FKRzWKJWGjAI99hqVqj_Q?usp=sharing)
 
-[Colab Project for LoDoPab Dataset](https://colab.research.google.com/drive/1wUu7Ji6LcmHghKnm8MHNs6M0mionKYYx?usp=sharing)
+[F-FPN Colab Notebook - LoDoPab](https://colab.research.google.com/drive/1wUu7Ji6LcmHghKnm8MHNs6M0mionKYYx?usp=sharing)
 
 [TV Minimization Colab Notebook](https://colab.research.google.com/drive/1I3G3PjIrosvy4VTy4b2XdtDpRjVwC4P5?usp=sharing)
 
