@@ -16,4 +16,6 @@ All codes for this project were run on Google Colab. Jupyter notebook files may 
 
 [Colab Project for Ellipses Dataset](https://colab.research.google.com/drive/1Tl3nMPyWfB-FKRzWKJWGjAI99hqVqj_Q?usp=sharing)
 
+[TV Minimization Colab Notebook](https://colab.research.google.com/drive/1I3G3PjIrosvy4VTy4b2XdtDpRjVwC4P5?usp=sharing)
+
 [Download Data](https://drive.google.com/drive/folders/1Z0A3c-D4dnrhlXM8cpgC1b7Ltyu0wpgQ?usp=sharing)
