@@ -1,13 +1,13 @@
 # Feasibility-based Fixed Point Networks (F-FPNs)
 
-This repo provides the code for the paper _Feasibility-based Fixed Point Networks_ (preprint available here). 
+This repo provides the code for the paper _Feasibility-based Fixed Point Networks_ (preprint available [here](https://arxiv.org/abs/2104.14090)). 
 
 Please cite as
 
-    @article{????2021feasibility,
+    @article{heaton2021feasibility,
         title={Feasibility-based Fixed Point Networks},
-        author={????},
-        journal={arXiv preprint arXiv:????.?????},
+        author={Heaton, Howard and Fung, Samy Wu and Gibali, Aviv and Yin, Wotao},
+        journal={arXiv preprint arXiv:2104.14090},
         year={2021}}
 
 Compatible with python 3.5+ and known to work with pytorch 1.4, torchvision 0.5, and numpy 1.18. Can install with pip install -r requirements.txt.
